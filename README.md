@@ -1,2 +1,2 @@
-# grunt-demos
+# grunt
 自动化构建
