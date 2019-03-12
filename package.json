@@ -1,0 +1,28 @@
+{
+  "name": "grunt-demos",
+  "version": "1.0.0",
+  "description": "自动化构建",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-htmlhint": "^0.9.13"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-eslint": "^21.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangying1998/grunt-demos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangying1998/grunt-demos/issues"
+  },
+  "homepage": "https://github.com/wangying1998/grunt-demos#readme"
+}
